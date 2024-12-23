@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: XHSDX3Hvcf2qWqRkI02EwR34NVRCwb+x9qjrZsulqAI=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: 31M81fV6H3eqCmjXdtYpZZV0uNPcqj6FF/WhdpE77Kk=
+
+Name: classes.dex
+SHA-256-Digest: sfLtx50hHKs5snQIWtSDBJcPXR7Ln7Kbm4mkkRTTvjs=
+
+Name: lib/arm64-v8a/libSDL2.so
+SHA-256-Digest: YDDIuc3Py/g/Jffg49vvOqwNCzQ7NSvu0GXpUThql0w=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA-256-Digest: KyHQfMTdzF8N6Rk39Lwf89CZ2MTlldq/u6DH9RsJdEw=
+
+Name: lib/arm64-v8a/libmain.so
+SHA-256-Digest: CwoazNq6Y7t8+QsZXb3QVx6iiWOsqgJNqmO4NVFfpKE=
+
+Name: lib/arm64-v8a/libopenal.so
+SHA-256-Digest: EF0TpisRXOxb7Q7KFx+eGkBNORcZLm8CzrsXW1ON9Yg=
+
+Name: res/drawable-xhdpi-v4/banner.png
+SHA-256-Digest: TIUEYkpvo2WkAMOK5yq+74Py6pi3/Cgrg+c6J1pciio=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA-256-Digest: FwiODFK9BRLG5SKxBuMCbPf/RoE/r8qXwte9GNfAV1s=
+
+Name: res/mipmap-hdpi-v4/ic_foreground.png
+SHA-256-Digest: zNRr53oYFQKkWZEIjDSvcbsd/zi2ZcLO1pshSnz8AsU=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: 7tEGlIbOJE7H6QH0Tr1nqDYTj5ped6nRRJlwkY+xGzE=
+
+Name: res/mipmap-mdpi-v4/ic_foreground.png
+SHA-256-Digest: VWv9jd5LvcpGDlETEa5bjK42QND3cmY1Gw+A6YgXUyg=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: lMFrlSTUYFjmZ+hAXNMsg8zBTzcPjCtmEGdqzia1Pjw=
+
+Name: res/mipmap-xhdpi-v4/ic_foreground.png
+SHA-256-Digest: l5qN5/CInvRgIMKN5gpUIfTQRhLPUlxSQC675MBh2X8=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: STO8Ir76MmibKYzkPIWEys39gVXP+Kp46a8zwSsKshM=
+
+Name: res/mipmap-xxhdpi-v4/ic_foreground.png
+SHA-256-Digest: /zlCUzyzzrCp6HmJg5DjNc7hvucXyAae1D0SazPhP20=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: cFYnW1BrPwU2b0Caydx0Iw2qHlhM50kVuYSXAOpBInw=
+
+Name: res/mipmap-xxxhdpi-v4/ic_foreground.png
+SHA-256-Digest: ANhmr5EsMQsAFCbuGg59xTWALW21y/hoXLBrZZGzzZI=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: pOfKNmGsT6HTfIPBfRqaolrUom2z/wS5B1QnKB9W8hw=
+
+Name: res/xml/splits0.xml
+SHA-256-Digest: R5wfhIEV3xxgXUNl/eRisMXF0uLodINtJhabd6NufCU=
+
+Name: resources.arsc
+SHA-256-Digest: QBrySH335rO781vMLWKozFjrg31p8afzCaSuOqjdZ5M=
+
+Name: stamp-cert-sha256
+SHA-256-Digest: HZwqAqk4Fv9ceuZPmq0Cwj3kncUUYg2xp61iTSqDZ5w=
+

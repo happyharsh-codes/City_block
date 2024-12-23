@@ -1,0 +1,71 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: vub/2cqFf1vnA+1WUkoZxSIvAvkMyqyCyFOpIOSSC4A=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 90SFKGmh30mbzopbF478UVjgbUxA0X4da18FxUZWeH4=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: QVM2DGvWMO3yl5U4bxcLHPjQkVj6cl7rZ4jpXyDcfDw=
+
+Name: classes.dex
+SHA-256-Digest: CpImgp+etGlUrem1bcTddFb5ypdvD0EJ+c8806UbE2I=
+
+Name: lib/arm64-v8a/libSDL2.so
+SHA-256-Digest: o58p/d9wFfKdGroRIA9QEtC9bFmpEUQ8NJZACYm1KUw=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA-256-Digest: 3mdsHfKBq5A+RmE9bJKZrSuBFyuO47dnNf5wkVsUhGY=
+
+Name: lib/arm64-v8a/libmain.so
+SHA-256-Digest: wYNCYBfNdjCosQSTGxzzfbtnnfXsBeg1lhaQhZirPvI=
+
+Name: lib/arm64-v8a/libopenal.so
+SHA-256-Digest: tfpllWjcT7R19lluRDyabUC+XSzFRhxABfLPkJVpp4U=
+
+Name: res/drawable-xhdpi-v4/banner.png
+SHA-256-Digest: Q1wegqy/bh4ohbSEuKRALkB5SrAHzwefhkPFlxjDUPU=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA-256-Digest: 8u04fey6Gawwlo/ntsfTXIIxP/3XlWS8AvReBA2CZEE=
+
+Name: res/mipmap-hdpi-v4/ic_foreground.png
+SHA-256-Digest: upJzxTsoyylpPuentNos0BxG6sfVZzAGfk0T4myhpxk=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: qavqmfbyNLfkByT6g8F8kYztk8U3cE58rRi/vI6FAEY=
+
+Name: res/mipmap-mdpi-v4/ic_foreground.png
+SHA-256-Digest: 3cITUegeQJd5Ri8qJcB9M8GdZyxv6IN4th5LUs04/Ic=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: 6u5xmfzH/izSfJNIrdC/crqvQgIJQAdfCWMOagNwmy8=
+
+Name: res/mipmap-xhdpi-v4/ic_foreground.png
+SHA-256-Digest: ftBEGM6fNlN2gjQ3D2MBjTtJhBip53+GinzIfwSG3n0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: /kiulc7vckWw/4Kwx/1DPo1bRvQ6cD6i6ACTq9CQZDk=
+
+Name: res/mipmap-xxhdpi-v4/ic_foreground.png
+SHA-256-Digest: R/NNx9eICnFSHkW/rIAmhDlKUoDoymVNe9uDMVnAQ9Y=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: b+CeOdVr8cxdix597z7d9dR13xSGGUBdyAHTwKaIr1o=
+
+Name: res/mipmap-xxxhdpi-v4/ic_foreground.png
+SHA-256-Digest: ahgf+WJ9e61TgrMBVDyDuV5tixIvb7DNl1+fhqPYUuk=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: IE3oMGCVrdd0jPBU8tbSDQ/CTiIStXyFZrflyZuC2h0=
+
+Name: res/xml/splits0.xml
+SHA-256-Digest: smKrrqDtvBwzctFRYDB+QRvWdalW9D5taEeBQeoVft0=
+
+Name: resources.arsc
+SHA-256-Digest: 3wSOUlPI/lwY3IunMjzdPNOGpBHau9eoqqybdvgY2Gg=
+
+Name: stamp-cert-sha256
+SHA-256-Digest: L0p4Bm/NGffFWX26fUKi8jlq3aKsfwyEBtSavY6F0c0=
+
